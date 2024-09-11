@@ -1,4 +1,4 @@
-<h1 align="center">print("Hello, world");</h1>
+<h1 align="center">I'm Talison Azzini from Brazil</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">I'm Talison from Brazil<br><br>- 📚 I'm currently learning Python, Cloud Computng and Security<br>- ⚡ In my free time I like to play video game, <br>- 👀 I’m interested in learn how the things work.</p>
+<h4 align="center">I'm Talison from Brazil<br><br>- 📚 I'm currently learning Python, Cloud Computng and Security<br>- ⚡ In my free time I like to play video game, <br>- 👀 I’m interested in learn how the things work.</h4>
 
 ###
 
@@ -39,8 +39,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TalisonAzzini&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TalisonAzzini&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TalisonAzzini&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="145" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TalisonAzzini&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="145" alt="languages graph"  />
 </div>
 
 ###
