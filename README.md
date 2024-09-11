@@ -30,7 +30,7 @@
   </a>
 </div>
 
-<br><hr>
+<br><hr><br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TalisonAzzini&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="135" alt="stats graph"  />
