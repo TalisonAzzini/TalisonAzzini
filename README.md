@@ -31,7 +31,7 @@
   <a href="talison.azzini@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/talisonazzini" target="_blank">
+  <a href="talisonazzini" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
@@ -39,7 +39,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TalisonAzzini&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TalisonAzzini&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="145" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TalisonAzzini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="145" alt="languages graph"  />
 </div>
 
 ###
