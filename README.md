@@ -1,14 +1,8 @@
-<h1 align="center">I'm Talison Azzini from Brazil</h1>
-
 ###
+<h1 align="center">Hello world, I'm Talison Azzini from Brazil</h1>
 
 <img align="right" height="255" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
-
-###
-
-<h4 align="center">I'm Talison from Brazil<br><br>- 📚 I'm currently learning Python, Cloud Computng and Security<br>- ⚡ In my free time I like to play video game, <br>- 👀 I’m interested in learn how the things work.</h4>
-
-###
+<h4 align="center">- 📚 I'm currently learning Python, Cloud Computng and Security<br><br>- ⚡ In my free time I like to play video game<br><br>- 👀 I’m interested in learn how the things work.<br></h4><br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -20,9 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-</div>
-
-###
+</div><br>
 
 <div align="center">
   <a href="https://wa.me/+5521987892416" target="_blank">
@@ -47,6 +39,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/TalisonAzzini/TalisonAzzini/output/snake.svg" alt="Snake animation" />
+<img align="center" src="https://raw.githubusercontent.com/TalisonAzzini/TalisonAzzini/output/snake.svg" alt="Snake animation" />
 
 ###
