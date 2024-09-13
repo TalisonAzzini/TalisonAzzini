@@ -1,21 +1,32 @@
-###
-<h1 align="center">Hello world, I'm Talison Azzini from Brazil</h1>
+<h1 align="center">Hello world, I'm Talison Azzini</h1>
+<div>
+  <img align="right" height="230" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
+  <h4 align="center">
+    :earth_americas:
+    <a href="README.md" align="center">Portugues</a><br><br>
+    - :book: Bachelor's student in Information Systems and technical student in Systems Development.<br><br>
+    - :books: I'm currently learning Python, Cloud Computng and Data structure in C++.<br><br>
+    - :eyes: I’m interested in learning new languages and technologies.<br><br>
+    - :video_game: In my free time I like to play video game and ping-pong with friends.
+  </h4>
+</div>
 
-<img align="right" height="255" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
-<h4 align="center">- 📚 I'm currently learning Python, Cloud Computng and Security<br><br>- ⚡ In my free time I like to play video game<br><br>- 👀 I’m interested in learn how the things work.<br></h4><br>
+<br><br>
 
+<h2 align="center">Languages and technologies</h2> 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="amazonwebservices logo"  />
 </div><br>
 
+<h2 align="center">Contact me</h2>
 <div align="center">
   <a href="https://wa.me/+5521987892416" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
