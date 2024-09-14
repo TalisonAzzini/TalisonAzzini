@@ -1,13 +1,13 @@
-<h1 align="center">Hello world, I'm Talison Azzini</h1>
+<h1 align="center">Hello world, eu sou o Talison Azzini</h1>
 <div>
   <img align="right" height="230" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
   <h4 align="center">
     :earth_americas:
     <a href="README.md" align="center">Portugues</a><br><br>
-    - :book: Bachelor's student in Information Systems and technical student in<br>Systems Development.<br><br>
-    - :books: I'm currently learning Python, Cloud Computng and Data structure.<br><br>
-    - :eyes: I’m interested in learning new languages and technologies.<br><br>
-    - :video_game: In my free time I like to play video game and ping-pong with friends.
+    - :book: Bacharelando em Sistemas de Informação e cursando técnico em<br>Desenvolvimento de Sistemas.<br><br>
+    - :books: Atualmente estou aprendendo Python, Computação em Nuvem<br>e Estrutura de Dados.<br><br>
+    - :rocket: Interessado em aprender novas línguas e tecnologias.<br><br>
+    - :video_game: No meu tempo livre gosto de jogar video game e ping-pong.
   </h4>
 </div>
 
