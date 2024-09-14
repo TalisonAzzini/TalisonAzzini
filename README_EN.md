@@ -6,7 +6,7 @@
     <a href="README.md" align="center">Portugues</a><br><br>
     - :book: Bachelor's student in Information Systems and technical student in<br>Systems Development.<br><br>
     - :books: I'm currently learning Python, Cloud Computng and Data structure.<br><br>
-    - :eyes: I’m interested in learning new languages and technologies.<br><br>
+    - :rocket: I’m interested in learning new languages and technologies.<br><br>
     - :video_game: In my free time I like to play video game and ping-pong with friends.
   </h4>
 </div>
