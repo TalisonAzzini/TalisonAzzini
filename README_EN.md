@@ -2,8 +2,8 @@
 <div>
   <img align="right" height="230" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
   <h4 align="center">
-    :earth_americas:
-    <a href="README.md" align="center">Portugues</a><br><br>
+    <a href="README.md">:earth_americas: Portugues</a> | 
+    <a>:earth_americas: English</a><br><br>
     - :book: Bachelor's student in Information Systems and technical student in<br>Systems Development.<br><br>
     - :books: I'm currently learning Python, Cloud Computng and Data structure.<br><br>
     - :rocket: I’m interested in learning new languages and technologies.<br><br>
