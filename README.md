@@ -3,8 +3,8 @@
 <div>
   <img align="right" height="230" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
   <h4 align="center">
-    <a href="README.md" align="center">:earth_americas: Portugues |</a>
-    <a href="README_EN.md" align="center">:earth_americas: English</a><br><br>
+    <a>:earth_americas: Portugues</a> | 
+    <a href="README_EN.md">:earth_americas: English</a><br><br>
     - :book: Bacharelando em Sistemas de Informação e cursando técnico em<br>Desenvolvimento de Sistemas.<br><br>
     - :books: Atualmente estou aprendendo Python, Computação em Nuvem<br>e Estrutura de Dados.<br><br>
     - :rocket: Interessado em aprender novas línguas e tecnologias.<br><br>
