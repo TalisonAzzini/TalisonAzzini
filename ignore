@@ -1,0 +1,57 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+typedef struct vendedor {
+	char nome[30];
+	char matricula[15];
+	float venda[3];
+} Vendedor;
+/*void ordemCrescente(int vetor[], int tamanho) {
+	int i, j, aux, temp;
+	
+	for(i=0; i<tamanho-1; i++) {
+		aux = i;
+		for(j=i+1; j<tamanho; j++) {
+			if(vetor[aux]>vetor[j]) {
+				aux=j;
+				temp = vetor[aux];
+				vetor[aux] = vetor[i];
+				vetor[i] = temp;
+			}
+		}
+	}
+}
+
+void ordemDecrescente(int vetor[], int tamanho) {
+	int i, j, aux, temp;
+	
+	for(i=0; i<tamanho-1; i++) {
+		aux = i;
+		for(j=i+1; j<tamanho; j++) {
+			if(vetor[j]>vetor[aux]) {
+				aux=j;
+				temp = vetor[aux];
+				vetor[aux] = vetor[i];
+				vetor[i] = temp;
+			}
+		}
+	}
+}*/
+
+
+int main() {
+	/*int vet[] = {50, 40, 30, 20, 10};
+	ordemCrescente(vet, 5);
+	
+	for(int i=0; i<5; i++) {
+		std:: cout<<vet[i]<<", ";
+	}
+	
+	ordemDecrescente(vet, 5);
+	
+	for(int i=0; i<5; i++) {
+		std:: cout<<vet[i]<<", ";
+	}*/
+	
+	
+}
