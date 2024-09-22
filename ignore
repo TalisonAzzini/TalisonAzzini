@@ -29,16 +29,17 @@ void registrar() {
 	}
 	
 	for(i=0; i<n_reg; i++) {
-		printf("Digite o nome do vendedor: ");
+	    printf("\n===== VENDEDOR %i =====\n", i+1);
+		printf("Nome: ");
 		scanf("%[^\n]", vendedor.nome);
 		limpa_linha();
 		
-		printf("Digite a matricula: ");
+		printf("Matricula: ");
 		scanf("%[^\n]", vendedor.matricula);
 		limpa_linha();
 		
 		for(int j=0; j<3; j++) {
-			printf("Digite a venda numero %i: ", j+1);
+			printf("Venda nº%i: R$", j+1);
 			scanf("%f", &vendedor.venda[j]);
 		}
 		limpa_linha();
@@ -59,10 +60,11 @@ void ler_registros() {
 		exit(1);
 	}
 	
-	printf("===== PESSOAS CADASTRADAS =====");
+	
 	fread(&vendedor, sizeof(Vendedor), 1, arq);
 	
 	do {
+	    printf("\n===== PESSOAS CADASTRADAS =====");
 		printf("\nNome: %s\nMatricula: %s\nPrimeira venda: %f\nSegunda venda: %f\nTerceira venda: %f\n",
 		vendedor.nome, vendedor.matricula, vendedor.venda[0], vendedor.venda[1], vendedor.venda[2]);
 		fread(&vendedor, sizeof(Vendedor), 1, arq);
@@ -73,15 +75,15 @@ void ler_registros() {
 
 int main() {
 	char opcao;
+	printf("===== BEM VINDO =====");
 	
 	do {
 		registrar();
-		
 		ler_registros();
 		
-		printf("\nDeseja continuar?");
+		printf("\nDeseja continuar(s/n)? ");
 		scanf("%c", &opcao);
 		limpa_linha();
-	} while(opcao=='s');
+	} while(opcao=='s' or opcao=='S');
 	return 0;
 }
