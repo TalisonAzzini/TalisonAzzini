@@ -5,7 +5,7 @@
   <h4 align="center">
     <a>:earth_americas: Portugues</a> | 
     <a href="README_EN.md">:earth_americas: English</a><br><br>
-    - :book: Bacharelando em Sistemas de Informação e cursando técnico em<br>Desenvolvimento de Sistemas.<br><br>
+    - :book: Bacharelando em Análise e Desenvolvimento de Sistemas e cursando técnico em<br>Desenvolvimento de Sistemas.<br><br>
     - :books: Atualmente estou aprendendo Python, Computação em Nuvem<br>e Estrutura de Dados.<br><br>
     - :rocket: Interessado em aprender novas línguas e tecnologias.<br><br>
     - :video_game: No meu tempo livre gosto de jogar video game e ping-pong.
