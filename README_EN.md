@@ -4,10 +4,10 @@
   <h4 align="center">
     <a href="README.md">:earth_americas: Portugues</a> | 
     <a>:earth_americas: English</a><br><br>
-    - :book: Bachelor's student in Analysis and Systems Development and technical student in<br>Systems Development.<br><br>
-    - :books: I'm currently learning Python, Cloud Computng and Data structure.<br><br>
-    - :rocket: I’m interested in learning new languages and technologies.<br><br>
-    - :video_game: In my free time I like to play video game and ping-pong with friends.
+    - :book: Bachelor’s degree student in Systems Analysis and Development,<br>with a technical background in Systems Development.<br><br>
+    - :books: Currently expanding my knowledge in Python, VBA, and Power BI.<br><br>
+    - :rocket: Highly motivated to learn new programming languages and emerging technologies.<br><br>
+    - :video_game: In my free time, I enjoy activities that challenge my problem-solving skills, such as video games.
   </h4>
 </div>
 
