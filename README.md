@@ -5,10 +5,10 @@
   <h4 align="center">
     <a>:earth_americas: Portugues</a> | 
     <a href="README_EN.md">:earth_americas: English</a><br><br>
-    - :book: Bacharelando em Análise e Desenvolvimento de Sistemas e formado<br>técnico em Desenvolvimento de Sistemas.<br><br>
-    - :books: Atualmente estou aprendendo Python, VBA<br>e Power BI.<br><br>
-    - :rocket: Interessado em aprender novas línguagens e tecnologias.<br><br>
-    - :video_game: No meu tempo livre gosto de jogar video game.
+    - :book: Bacharelando em Análise e Desenvolvimento de Sistemas, com formação técnica em Desenvolvimento de Sistemas.<br><br>
+    - :books: Atualmente aprimorando meus conhecimentos em Python, VBA e Power BI.<br><br>
+    - :rocket: Motivado a aprender novas linguagens de programação e tecnologias emergentes.<br><br>
+    - :video_game: No tempo livre, gosto de atividades que estimulam o raciocínio lógico, como jogos de videogame.
   </h4>
 </div>
 
