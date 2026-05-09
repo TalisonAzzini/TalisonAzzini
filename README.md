@@ -1,25 +1,30 @@
 <h1 align="center">Olá, eu sou o Talison Azzini 👋</h1>
 
 <p align="center">
-  Estudante de ADS • Estagiário de TI no Detran-RJ • Foco em Análise de Dados
+  Estudante de Análise e Desenvolvimento de Sistemas • Estagiário de TI no Detran-RJ
+</p>
+
+<p align="center">
+  Foco em Análise de Dados, Backend e soluções com Python, Java e SQL
 </p>
 
 ---
 
-## Sobre mim
+## 🚀 Sobre mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Estácio
 - 🏫 Técnico em **Desenvolvimento de Sistemas** pelo SENAC
 - 💼 Estagiário de TI no **Detran-RJ**
-- 📊 Foco em **Análise de Dados** com Python, SQL e Power BI
+- 📊 Desenvolvendo projetos de análise de dados com Python, SQL e Power BI
+- ⚙️ Conhecimentos em backend com Java, Spring Boot e APIs REST
 - 🌎 Inglês avançado **(C1)**
-- 🎮 Nas horas vagas, caçador de platinas
+- 🎮 Interesse em tecnologia, dados, desenvolvimento e games
 
 ---
 
-## Tecnologias
+## 🛠️ Tecnologias
 
-**Dados & BI**
+### 📊 Dados & BI
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -27,48 +32,44 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Backend**
+### ⚙️ Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![API REST](https://img.shields.io/badge/API%20REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Banco de Dados**
+### 🗄️ Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Ferramentas**
+### 🛠️ Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## Projetos em Destaque
+## 📌 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [helpdesk-api](https://github.com/TalisonAzzini/helpdesk-api) | API REST para gestão de chamados de TI com análise de dados | Java, Spring Boot, Python |
-| [olist-analise-vendas](https://github.com/TalisonAzzini/olist-analise-vendas) | Análise de vendas e performance do e-commerce brasileiro | Python, Power BI, Excel |
+| Projeto | Descrição |
+|---|---|
+| [helpdesk-api](https://github.com/TalisonAzzini/helpdesk-api) | API REST para gerenciamento de chamados com autenticação JWT, Spring Security e análise de dados operacionais |
+| [olist-analise-vendas](https://github.com/TalisonAzzini/olist-analise-vendas) | Análise de dados do e-commerce Olist com insights de vendas, faturamento e performance comercial |
 
 ---
 
-## Estatísticas
+## 📈 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TalisonAzzini&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalisonAzzini&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TalisonAzzini&show_icons=true&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TalisonAzzini&layout=compact&theme=github_dark"/>
 </p>
 
 ---
 
-## Contato
+## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talisonazzini)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talison.azzini@gmail.com)
