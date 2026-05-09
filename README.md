@@ -60,15 +60,6 @@
 
 ---
 
-## 📈 Estatísticas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TalisonAzzini&show_icons=true&theme=github_dark"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TalisonAzzini&layout=compact&theme=github_dark"/>
-</p>
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talisonazzini)
